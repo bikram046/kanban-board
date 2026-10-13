@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Kanban board screenshot placeholder</title>
+  <desc id="desc">A placeholder image for the realtime Kanban board screenshot.</desc>
+  <rect width="1200" height="720" fill="#f6f7f9"/>
+  <rect x="96" y="72" width="1008" height="576" rx="12" fill="#ffffff" stroke="#d9dee8"/>
+  <rect x="136" y="120" width="260" height="456" rx="8" fill="#edf0f5"/>
+  <rect x="470" y="120" width="260" height="456" rx="8" fill="#edf0f5"/>
+  <rect x="804" y="120" width="260" height="456" rx="8" fill="#edf0f5"/>
+  <rect x="136" y="120" width="260" height="8" fill="#2563eb"/>
+  <rect x="470" y="120" width="260" height="8" fill="#10b981"/>
+  <rect x="804" y="120" width="260" height="8" fill="#f59e0b"/>
+  <g fill="#ffffff" stroke="#d9dee8">
+    <rect x="160" y="178" width="212" height="86" rx="8"/>
+    <rect x="160" y="288" width="212" height="110" rx="8"/>
+    <rect x="494" y="178" width="212" height="96" rx="8"/>
+    <rect x="494" y="298" width="212" height="86" rx="8"/>
+    <rect x="828" y="178" width="212" height="104" rx="8"/>
+  </g>
+  <g fill="#172033">
+    <rect x="160" y="146" width="116" height="14" rx="7"/>
+    <rect x="494" y="146" width="94" height="14" rx="7"/>
+    <rect x="828" y="146" width="106" height="14" rx="7"/>
+  </g>
+  <g fill="#667085">
+    <rect x="184" y="204" width="132" height="10" rx="5"/>
+    <rect x="184" y="228" width="92" height="10" rx="5"/>
+    <rect x="184" y="314" width="144" height="10" rx="5"/>
+    <rect x="184" y="338" width="108" height="10" rx="5"/>
+    <rect x="518" y="204" width="126" height="10" rx="5"/>
+    <rect x="518" y="228" width="96" height="10" rx="5"/>
+    <rect x="518" y="324" width="136" height="10" rx="5"/>
+    <rect x="852" y="204" width="122" height="10" rx="5"/>
+    <rect x="852" y="228" width="150" height="10" rx="5"/>
+  </g>
+  <text x="600" y="632" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#667085">Screenshot placeholder</text>
+</svg>
